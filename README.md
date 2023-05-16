@@ -1,6 +1,7 @@
 # Name of project
 
-> A longer description
+> This is a personal website portfolio hosted on GitHub. It shows my skills,
+> projects, and achievements as a web developer.
 
 ## Table of contents
 
