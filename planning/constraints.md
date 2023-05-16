@@ -4,22 +4,20 @@ Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- Project Deadline: The project must be completed and launched by may 19, 2023.
+
+## Internal: Voluntary
+
+- Skill Level: The level of your skills can impact the complexity and scope of
+  the projects
+- Time Availability: The amount of time I can allocate to working on the project
+  may be limited
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
-
-## Internal: Voluntary
+- Technical Expertise: Depending on my technical skills, I may encounter
+  limitations in implementing advanced features elements in my portfolio.
+- Time: The amount of time available to work on the project can be limited.
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
