@@ -1,30 +1,38 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## `Jean Paul portfolio` page
 
-## Must-Haves
+### Must-Have
 
-> these are necessary for basic usability
+- [ ] As a user I want to see a navigation bar
 
-- [ ] As a title I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - navigation which will allow to easily navigate to all pages .
 
-## Should-Haves
+- [ ] As a user I want to see my name as a logo
 
-> these will complete the user experience, but are not necessary
+  - there is a Logo at the top left of the page
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I can read an introduction about person's portfolio
 
-## Could-Haves
+  - there is a sections directly under the background
 
-> would be really cool ... if there's time
+- [ ] As a user I can read an introduction about person's portfolio
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - there is a sections directly under the background
+
+- [ ] As a user I want to see information about work the person has done
+
+  - There is a link to projects page where you can see all projects and
+    experience
+
+### Should Haves
+
+- [ ] As a user, I want the website to be responsive to every device
+
+  - the site will be responsive to different screen sizes
+
+### Could Haves
+
+- [ ] I want to get in touch with someone quickly
+
+  - There is a contact page to give information on how to reach me
