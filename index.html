@@ -2,11 +2,57 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>project!</title>
-
-    <link href="./styles/index.css" rel="stylesheet" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/index.css" />
+    <title>Web Design Mastery | Responsive Portfolio</title>
   </head>
-  <body></body>
+  <body>
+    <nav>
+      <div class="nav__content">
+        <div class="logo"><a href="#">JeanPaul</a></div>
+        <label for="check" class="checkbox">
+          <i class="ri-menu-line"></i>
+        </label>
+        <input type="checkbox" name="check" id="check" />
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./pages/about.html">About</a></li>
+          <li>
+            <a href="https://github.com/iradukundajp?tab=repositories"
+              >Projects</a
+            >
+          </li>
+          <li><a href="./pages/contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <section class="section">
+      <div class="section__container">
+        <div class="content">
+          <p class="subtitle">Hi there👋</p>
+          <h1 class="title">
+            <span>I'm Jean Paul <br />a</span> Web Developer
+          </h1>
+          <p class="description">
+            Welcome to my web developer portfolio! I'm a web developer student
+            currently pursuing my passion for creating dynamic and user-friendly
+            websites. I am a creative problem solver with a keen eye for design
+            and a solid foundation in web development technologies
+          </p>
+          <div class="action__btns">
+            <button class="hire__me">Hire Me</button>
+            <button class="resume">My Resume</button>
+          </div>
+        </div>
+        <div class="image">
+          <img src="./public/IMG-5780.jpg" alt="profile" />
+        </div>
+      </div>
+    </section>
+  </body>
 </html>
