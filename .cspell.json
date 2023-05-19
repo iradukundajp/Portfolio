@@ -19,7 +19,8 @@
     "flwx",
     "btns",
     "endable",
-    "Bornem"
+    "Bornem",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
