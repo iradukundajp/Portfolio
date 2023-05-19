@@ -1,3 +1,4 @@
+/* stylelint-disable rule-empty-line-before */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
@@ -42,12 +43,28 @@ nav {
   justify-content: space-between;
 }
 
+ul li a {
+  padding: 0.5rem 1rem;
+  border: 2px solid transparent;
+  text-decoration: none;
+  font-weight: 600;
+  color: var(--text-dark);
+  transition: 0.3s;
+}
+
 nav .logo a {
   font-size: 40px;
   font-weight: 600;
   color: var(--primary-color);
   transition: 0.3s;
 }
+
+ul li a:hover {
+  border-top-color: var(--secondary-color);
+  border-bottom-color: var(--secondary-color);
+  color: var(--secondary-color);
+}
+
 nav .logo a:hover {
   color: var(--primary-color-dark);
 }
@@ -71,21 +88,6 @@ ul {
   gap: 1rem;
   list-style: none;
   transition: left 0.3s;
-}
-
-ul li a {
-  padding: 0.5rem 1rem;
-  border: 2px solid transparent;
-  text-decoration: none;
-  font-weight: 600;
-  color: var(--text-dark);
-  transition: 0.3s;
-}
-
-ul li a:hover {
-  border-top-color: var(--secondary-color);
-  border-bottom-color: var(--secondary-color);
-  color: var(--secondary-color);
 }
 
 .section {
@@ -152,7 +154,7 @@ ul li a:hover {
 
 .hire__me {
   background-color: var(--primary-color);
-  color: #ffffff;
+  color: #f0f0fa;
 }
 
 .hire__me:hover {
@@ -165,7 +167,7 @@ ul li a:hover {
 
 .resume:hover {
   background-color: var(--primary-color-dark);
-  color: #ffffff;
+  color: white;
 }
 
 .image {

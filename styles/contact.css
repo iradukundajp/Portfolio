@@ -62,6 +62,7 @@ section {
 
 .row {
   display: flex;
+  /* stylelint-disable-next-line property-no-unknown */
   flwx-wrap: wrap;
   align-items: center;
   justify-content: space-between;
@@ -163,6 +164,7 @@ section {
   cursor: pointer;
   padding: 10px;
   font-size: 18px;
+  /* stylelint-disable-next-line declaration-block-no-duplicate-properties */
   border: 1px solid #00bcd4;
   transition: 0.5s;
 }

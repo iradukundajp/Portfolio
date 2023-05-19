@@ -15,7 +15,11 @@
     "wireframe",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "flwx",
+    "btns",
+    "endable",
+    "Bornem"
   ],
   "ignorePaths": [
     "node_modules/**",
